@@ -7,7 +7,7 @@ has_children: true
 has_toc: true
 ---
 
-# Lorem Ipsum
+# Foo
 
 Lorem Ipsum
 

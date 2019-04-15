@@ -6,7 +6,7 @@ has_toc: true
 nav_order: 2
 ---
 
-# Lorem Ipsum
+# Foobar
 
 Lorem Ipsum
 
