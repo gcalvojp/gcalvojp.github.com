@@ -2,6 +2,7 @@
 layout: default
 title: Bar
 parent: Foobar
+nav_order: 2
 has_toc: true
 ---
 
