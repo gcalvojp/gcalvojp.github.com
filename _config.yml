@@ -1,3 +1,4 @@
-theme: just-the-docs
+#theme: just-the-docs
 #theme: jekyll-theme-architect
 #bootswatch-theme: cerulean
+remote_theme: pmarsceill/just-the-docs
