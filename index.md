@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: Lorem ipsum
+permalink: /
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gcalvojp/gcalvojp.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
